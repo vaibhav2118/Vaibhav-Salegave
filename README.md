@@ -90,7 +90,7 @@ AI-powered misinformation detection system that flags up to **40% false content*
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<YOUR_GITHUB_USERNAME>&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=<github.com/vaibhav2118>&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=<YOUR_GITHUB_USERNAME>&theme=tokyonight" height="150"/>
 </p>
 
@@ -98,7 +98,7 @@ AI-powered misinformation detection system that flags up to **40% false content*
 
 ### 🤝 Connect With Me
 - 📧 Email: **vaibhavsalegave@gmail.com**  
-- 🔗 LinkedIn: *Add your link*  
+- 🔗 LinkedIn: *https://www.linkedin.com/in/vaibhav-salegave-16126638b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app*  
 - 🖥️ Portfolio: *Add if available*  
 
 ---
