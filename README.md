@@ -6,7 +6,6 @@
 ### 🚀 About Me
 - 🎓 B.Tech in **Artificial Intelligence & Data Science** (2022–2026), CGPA: **8.0**  
 - 🤖 Focused on **Reinforcement Learning, ML/DL, NLP, and Computer Vision**  
-- 📦 Built **Parcel Vault**, an advanced IoT–AI smart dropbox system  
 - 🚗 Created **Neuro Drive**, a self-driving car RL project in CARLA  
 - 📰 Developed a **Fake News Detector** using NLP + BERT  
 - 💻 Strong CS foundations: **C++, Python, OOPS, OS, Linux, DSA, DBMS**  
